@@ -14,3 +14,5 @@ before_install:
 - docker build . -t planner:1.0.0
 - docker run -p 50051:50051 planner:1.0.0 ./server
 - docker ps -a
+
+script: make
