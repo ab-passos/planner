@@ -1,4 +1,4 @@
 # planner
 My planner
 
-https://travis-ci.com/ab-passos/planner.svg?branch=master
+[![Build Status](https://travis-ci.com/ab-passos/planner.svg?branch=master)](https://travis-ci.com/ab-passos/planner)
