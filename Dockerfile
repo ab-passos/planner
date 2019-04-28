@@ -11,6 +11,6 @@ EXPOSE 50051
 
 WORKDIR /src
 
-COPY CMakeLists.txt test.cpp ./
+COPY CMakeLists.txt planner.proto test.cpp ./
 
 RUN cmake . && make
